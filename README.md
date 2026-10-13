@@ -136,6 +136,3 @@ flowchart TD
 
 Pull requests with additional ADB profiling scripts, hardware benchmarks, and network configurations for other Fire OS versions are welcome.
 
-## Licence
-
-MIT Licence. See [LICENCE](LICENCE) for details.
